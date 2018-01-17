@@ -2,4 +2,4 @@
 
 ## YouTube
 
-[![YOUTUBE](https://img.youtube.com/vi/P4pirjoAVVM/0.jpg)](https://www.youtube.com/watch?v=P4pirjoAVVM)
+[![YOUTUBE](https://github.com/kamildyjak/AR-IoT/blob/master/WD_app.png)](https://www.youtube.com/watch?v=P4pirjoAVVM)
