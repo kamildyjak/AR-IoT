@@ -2,8 +2,8 @@
 
 Celem tego projektu było połączeniu NAS z plotformą ThingWorx. Informacje o aktualnym stanie urządzenia przesyłane są do platformy, a następnie wyświetlane przy wykorzystaniu wirtualnej rzeczywistości. 
 
-1. Etapy
-* Napisanie programu, który pobiera z urządzenia plik XML z informacjami o stanie urządzenia.
+### Etapy
+* Napisanie programu, który pobiera z urządzenia plik XML z informacjami o stanie urządzenia (Java)
 * Przesłanie informacji do platformy (REST)
 * Przygotowanie wirtualnej zawartości za pomocą ThingWorx Studio
 
